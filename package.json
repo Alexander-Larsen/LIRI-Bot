@@ -1,0 +1,19 @@
+{
+  "name": "10-liri-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexander-Larsen/LIRI-Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexander-Larsen/LIRI-Bot/issues"
+  },
+  "homepage": "https://github.com/Alexander-Larsen/LIRI-Bot#readme"
+}
